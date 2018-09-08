@@ -43,7 +43,7 @@ a {
 .heroGroup {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 34vh 25vw;
+    padding: 30vh 25vw;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 16px;
@@ -270,7 +270,7 @@ a {
       background-image:url('../images/here.svg'),url('../images/hero-ipad.jpg');
       width:100%;
       background-size:cover;
-      background-position:center;
+      background-position:cover;
       height: 100vh;
       display: grid;
         grid-template-columns: repeat(2, auto);
