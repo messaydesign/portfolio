@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/messaydenbel/Documents/portfolio/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/messaydenbel/Documents/portfolio/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "aab36b51e47bb2da14a46ac666ec7e4b",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
@@ -412,14 +422,16 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
+      "port": 8006,
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-08T19:16:07.952Z",
+      "buildTime": "2018-09-08T19:28:17.277Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7d9644949592fe176ac0e70f7bb70ffc",
+        "contentDigest": "e7cc996373113814092bce61ca4daa68",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -440,7 +452,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5cfc16ae52fa386edde9c0155e35762c",
+        "contentDigest": "04aaf1da5e59e422327570df5a7505d0",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -461,7 +473,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "89da8455c6f70c5cd3c76ca5cd3dc0fd",
+        "contentDigest": "ad232332c1ec19ed0c682c55f9e19787",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -482,7 +494,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "98ca899bfcd6a2d3a3d59c359e2e14ad",
+        "contentDigest": "bd55035b808d97ef26b398c4d47e939f",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -503,7 +515,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6e21dce13c31b0f49546d3b191656508",
+        "contentDigest": "16bae77252d2bba7b97c2a3ce869a749",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
