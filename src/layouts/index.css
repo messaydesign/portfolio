@@ -110,7 +110,8 @@ a {
   padding: 34vh 0 0 10vw;
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-gap: 16px;
+  margin-top: -5vh;
+  
 
 }
 .name {
@@ -118,6 +119,7 @@ a {
   font-family: "marydale",sans-serif;
   font-size:  18px;
   font-weight: 800;
+  
     }
 
 .name img {
@@ -128,6 +130,7 @@ a {
   font-weight: 100;
   font-size: 18px;
   width: 100%;
+  margin-top: -5vh;
 }
 
 .nameCont strong {
