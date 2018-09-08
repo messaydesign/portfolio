@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 407 402" id="el_ejIswmRRQ">
+    <style>
+        @-webkit-keyframes el_k0h3NEm5a8_ILNY7PieQ_Animation{0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}100%{-webkit-transform: rotate(359.9deg);transform: rotate(359.9deg);}}@keyframes el_k0h3NEm5a8_ILNY7PieQ_Animation{0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}100%{-webkit-transform: rotate(359.9deg);transform: rotate(359.9deg);}}#el_ejIswmRRQ *{-webkit-animation-duration: 20s;animation-duration: 20s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_kMHds5OcMV{opacity: 0.21;}#el_nsUMdfz2Xd{fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.29px;}#el_O7-Zs-svI5{fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.29px;}#el__NT_FKguuH{fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.29px;}#el_kFbmE3iUHO{fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.29px;}#el_tSoMONS2_Z{fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.29px;}#el_MD89cgmoA7{fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.29px;}#el_4PV__7QZq4{fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.29px;}#el_FWAz4mGNZD{fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.29px;}#el_BOVdE7P3m0{fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.29px;}#el_b0JqX4jkIO{fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.29px;}#el_k39P30aduD{fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.29px;}#el_k0h3NEm5a8_ILNY7PieQ{-webkit-animation-name: el_k0h3NEm5a8_ILNY7PieQ_Animation;animation-name: el_k0h3NEm5a8_ILNY7PieQ_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: rotate(0deg);transform: rotate(0deg);}
+    </style>
+    <defs/>
+    <title>
+        circle
+    </title>
+    <g id="el_k0h3NEm5a8_ILNY7PieQ" data-animator-group="true" data-animator-type="1">
+        <g id="el_k0h3NEm5a8" data-name="Layer 2">
+            <g id="el_xdw_09raLn">
+                <g id="el_kMHds5OcMV">
+                    <circle cx="205.94" cy="201.14" r="201" id="el_nsUMdfz2Xd"/>
+                    <circle cx="342.48" cy="54.13" r="7.84" id="el_O7-Zs-svI5"/>
+                    <circle cx="52.99" cy="331.46" r="7.84" id="el__NT_FKguuH"/>
+                    <circle cx="340.65" cy="350.31" r="7.84" id="el_kFbmE3iUHO"/>
+                    <circle cx="7.98" cy="168.47" r="7.84" id="el_tSoMONS2_Z"/>
+                    <circle cx="203.54" cy="201.14" r="100.2" id="el_MD89cgmoA7"/>
+                    <circle cx="203.54" cy="201.14" r="147.8" id="el_4PV__7QZq4"/>
+                    <circle cx="368.35" cy="186.59" r="6.47" id="el_FWAz4mGNZD"/>
+                    <circle cx="37.46" cy="179.49" r="6.47" id="el_BOVdE7P3m0"/>
+                    <circle cx="194.38" cy="358.42" r="6.47" id="el_b0JqX4jkIO"/>
+                    <circle cx="106.33" cy="58.06" r="6.47" id="el_k39P30aduD"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <script>
+        (function(){var a=document.querySelector('#el_ejIswmRRQ'),b=a.querySelectorAll('style'),c=function(d){b.forEach(function(f){var g=f.textContent;g&amp;&amp;(f.textContent=g.replace(/transform-box:[^;\r\n]*/gi,'transform-box: '+d))})};c('initial'),window.requestAnimationFrame(function(){return c('fill-box')})})();
+    </script>
+</svg>
