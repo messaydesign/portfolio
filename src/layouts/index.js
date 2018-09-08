@@ -8,7 +8,15 @@ import './index.css'
 const Layout = ({ children, data }) => (
   <div>
     <div className="hero">
-    
+    <div className="heroGroup">
+   <div className="name"> <h1> <img src={require ('../images/Logo.svg')} width="75"/>  Messay F. Denbel</h1>
+   </div>
+   <div className="nameCont"><p> <strong>👋🏽 Hi,</strong> <br/>I am a product designer focused on creating digital experiences who has a passion for motion, 
+    visual design, human-centered designer. I really enjoy digging into complex user experience problems with a deliberate curious mindset. 
+    All of my work is based on applying the design process to a variety of problems. 
+      </p>
+      </div>
+</div>
     </div>
   </div>
 )

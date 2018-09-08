@@ -36,24 +36,85 @@ a {
   animation-duration:10s;
   animation-fill-mode: forwards;
   animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
-
 }
 
+.heroGroup {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 34vh 25vw;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 16px;
+}
 
+.name {
+  grid-row: span 2 / auto;
+  font-family: "marydale",sans-serif;
+  font-size:  32px;
+  font-weight: 800;
+    }
+
+.nameCont {
+  font-weight: 100;
+  max-width: 80%;
+  font-size: 32px;
+}
+
+.nameCont strong {
+  font-weight: 100;
+  font-size: 42px;
+}
 
 @media only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
+
+
 .hero{
   background-image:url('../images/here.svg'),url('../images/hero-mob.jpg');
   width:100%;
   background-size: cover;
-   background-position: right;
-   height: 100vh;
+  background-position: right;
+  height: 100vh;
+  display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-gap: 16px;
+    justify-items:left;
+    align-items: center;
+}
+
+.heroGroup {
+  margin: 0 auto;
+  padding: 34vh 0 0 10vw;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 16px;
 
 }
+.name {
+  grid-row: span 2 / auto;
+  font-family: "marydale",sans-serif;
+  font-size:  18px;
+  font-weight: 800;
+    }
+
+.name img {
+  width: 40px;
+}
+
+.nameCont {
+  font-weight: 100;
+  font-size: 18px;
+  width: 100%;
+}
+
+.nameCont strong {
+  font-weight: 100;
+  font-size: 42px;
+}
+
 
 }
 
