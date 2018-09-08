@@ -155,7 +155,7 @@ a {
 
 .hero{
   background-image:url('../images/here.svg'),url('../images/hero-mob.jpg');
-  width:100vw;
+  widows: 100vw;
   height: 100vh;
   background-size:cover;
   background-position: center;
@@ -177,9 +177,10 @@ a {
 
 }
 .name {
-  grid-row: span 2 / auto;
+  width: 100%;
+  grid-row: span 1 / auto;
   font-family: "marydale",sans-serif;
-  font-size:  18px;
+  font-size:  16px;
   font-weight: 800;
   
     }
@@ -210,18 +211,16 @@ a {
 .section {
   background-image: url('../images/img.svg');
   width: 100%;
-  height: 100vh;
 }
 .sectionGroup {
-  max-width: 1200px;
+  max-width: 80%;
   margin: 0 auto;
   z-index: 1;
-  padding-top: 15vh;
 }
 
 .sectionGroup h1 {
   font-family: "marydale",sans-serif;
-  font-size:  48px;
+  font-size:  38px;
   font-weight: 800;
   text-align: center;
   padding: 25px 10px;
@@ -231,12 +230,13 @@ a {
   font-weight: 100;
   font-size: 16px;
   line-height: 20px;
-  padding: 0 18px 24px 18px;
+  padding: 0 18px 0 18px;
 
 }
 .sections {
-  width: 80%;
-  margin: 0 auto;
+  width: 60%;
+  margin: 80% auto;
+  padding-top: -15vh;
 }
 
 .sectionGrid {
@@ -255,7 +255,7 @@ a {
 
 .section1 p{
   font-weight: 100;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 }
