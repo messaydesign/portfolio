@@ -154,11 +154,9 @@ a {
 
 .hero{
   background-image:url('../images/here.svg'),url('../images/hero-mob.jpg');
-  background-size:contain;
-  background-repeat: no-repeat;
-  display: grid;
-  grid-template-columns: repeat(2, auto);
-  grid-gap: 16px;
+  background-size:cover;
+  
+
  
 }
 
@@ -168,6 +166,9 @@ a {
   display: grid;
   justify-items:left;
   align-items: center;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-gap: 16px;
   grid-template-columns: repeat(1, 1fr);
   margin-top: -5vh;
   
