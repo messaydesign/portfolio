@@ -14,7 +14,7 @@ const Layout = ({ children, data }) => (
    <div className="name"> <h1> <img src={require ('../images/Logo.svg')}/>  Messay F. Denbel</h1>
    </div>
    <div className="nameCont"><p> <strong>👋🏽 Hi,</strong> <br/>I am a product designer focused on creating digital experiences who has a passion for motion, 
-    visual design, human-centered designer. I really enjoy digging into complex user experience problems with a deliberate curious mindset. 
+    visual design, human-centered design. I really enjoy digging into complex user experience problems with a deliberate curious mindset. 
     All of my work is based on applying the design process to a variety of problems. 
     <div className="amharic"> <h4> መሣይ ፈለቀ ደንበል ::</h4></div>
       </p>
