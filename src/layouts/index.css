@@ -68,10 +68,14 @@ a {
   font-size: 42px;
 }
 .social a {
-  padding-right: 16px;
+  padding-right: 36px;
+  transition: all 0.5s ease;
+  
 }
 
-
+.social a:hover {
+  opacity: 0.4;
+}
 
 
 
