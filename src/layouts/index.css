@@ -155,20 +155,20 @@ a {
 
 .hero{
   background-image:url('../images/here.svg'),url('../images/hero-mob.jpg');
-  widows: 100vw;
   background-size:cover;
   background-position: center;
   display: grid;
-    grid-template-columns: repeat(2, auto);
-    grid-gap: 16px;
-    justify-items:left;
-    align-items: center;
+  grid-template-columns: repeat(2, auto);
+  grid-gap: 16px;
+ 
 }
 
 .heroGroup {
   margin: 0 auto;
   padding: 25vh 0 0 10vw;
   display: grid;
+  justify-items:left;
+  align-items: center;
   grid-template-columns: repeat(1, 1fr);
   margin-top: -5vh;
   
