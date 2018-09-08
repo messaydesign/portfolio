@@ -154,7 +154,15 @@ a {
 
 .hero{
   background-image:url('../images/here.svg'),url('../images/hero-mob.jpg');
-  background-size:cover;
+  width:100%;
+  background-size: cover;
+   background-position: center;
+   opacity: 0;
+   background-attachment: fixed;
+   animation: HeroAnimation;
+  animation-duration:10s;
+  animation-fill-mode: forwards;
+  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
   
 
  
