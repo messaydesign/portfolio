@@ -67,6 +67,13 @@ a {
   font-weight: 100;
   font-size: 42px;
 }
+.social a {
+  padding-right: 16px;
+}
+
+
+
+
 
 @media only screen 
   and (min-device-width: 320px) 
@@ -117,6 +124,15 @@ a {
   font-weight: 100;
   font-size: 42px;
 }
+.social a {
+  padding-right: 20px;
+  width: 24px;
+}
+.social a:nth-child(6) {
+  display: none;
+}
+
+
 
 
 }
