@@ -109,7 +109,7 @@ a {
   margin: 0 auto;
   max-width: 100%;
   font-weight: 100;
-  font-size: 32px;
+  font-size: 20px;
   line-height: 42px;
 }
 
@@ -154,7 +154,7 @@ a {
 
 
 .hero{
-  background-image:url('../images/here.svg'),url('../images/hero-mob.jpg');
+  background-image:url('../images/here.svg'),url('../images/hero-imob.jpg');
   background-size:cover;
   background-position: center;
   display: grid;
