@@ -106,12 +106,36 @@ a {
 }
 
 .sectionGroup p {
+  margin: 0 auto;
+  max-width: 100%;
   font-weight: 100;
   font-size: 32px;
   line-height: 42px;
-
 }
 
+.sections {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.sectionGrid {
+  display: grid;
+  justify-items: center;
+    text-align: center;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+
+.section1 h1 {
+  font-family: "marydale",sans-serif;
+  font-size:  34px;
+  font-weight: 800;
+}
+
+.section1 p{
+  font-weight: 100;
+  font-size: 20px;
+}
 
 
 
@@ -209,6 +233,29 @@ a {
   padding: 0 18px 24px 18px;
 
 }
+.sections {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.sectionGrid {
+  display: grid;
+  justify-items: center;
+  text-align: center;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 10px;
+}
+
+.section1 h1 {
+  font-family: "marydale",sans-serif;
+  font-size:  34px;
+  font-weight: 800;
+}
+
+.section1 p{
+  font-weight: 100;
+  font-size: 20px;
+}
 
 }
 
@@ -302,6 +349,29 @@ a {
     font-size: 20px;
     line-height: 28px;
   
+  }
+  .sections {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .sectionGrid {
+    display: grid;
+    justify-items: center;
+    text-align: center;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+  }
+  
+  .section1 h1 {
+    font-family: "marydale",sans-serif;
+    font-size:  34px;
+    font-weight: 800;
+  }
+  
+  .section1 p{
+    font-weight: 100;
+    font-size: 20px;
   }
 
 }

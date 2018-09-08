@@ -39,13 +39,52 @@ const Layout = ({ children, data }) => (
   <p>
   It is all about solving problems, if not it would be pixel art. Product design always starts with understanding the problem rigorously.The fun part being a product designer is that I have problems to solve every single day with collaborative problem-solving process. In my 7+ years journey I realize that close collaboration of multidisciplinary team with a design process creates a winning product. 
 Each individual from different disciplinary provides a unique and valuable perspective about the problem, as product enhances and feature updates have a huge impact across internal and external products.   In my product design process, I’ll be focusing on four areas I believe will facilitate my ability to make meaningful contributions to the team I am working with.
-</p>
+</p>  
+    </div>
+ </div>
+    <div className="sections"> 
+ <div className="sectionGrid">
+        <div className="section1"> 
+           <h1> <div> <img src={require ('../images/user-r.svg')} width="50"/> </div> User research </h1>
+          <p>
+            Products are used by whole range of people, from different cultures, with physical, and situational
+            constraints. User research will enable us to observe users in their natural environment, giving us a
+            better understanding of the way users work.
+        </p> 
+        </div>
+        <div className="section1"> 
+          
+          <h1> <div> <img src={require ('../images/research.svg')} width="50"/> </div> Business research</h1>
+          <p>
+          Developing a deeper understanding of the business mission, its culture, and operations to get a
+        clear understanding of where the company is heading to and what type of product is aspired to
+        build.
+        </p> 
+        </div>
 
-    
-    
-    </div>
-    
-    </div>
+        <div className="section1">
+          
+          <h1> <div> <img src={require ('../images/design.svg')} width="42"/> </div> Design Decision</h1>
+          <p>
+          For every design decision creating a quick sketch, flowcharts, prototypes and detailed documentation
+        will help to have a clear understanding throughout the team I am working with, this will
+        clear the air between Product, Business and Engineering.
+        </p> 
+        </div>
+
+          <div className="section1">
+          
+          <h1> <div> <img src={require ('../images/user.svg')} width="50"/> </div> Communication </h1> 
+          <p>
+          To pitch any design decision from any product team needs a clear pitch deck to get buy from
+        stakeholders. In this process having a working prototype really help to avoid communication
+        pitfalls and make positive impact.
+        </p>
+
+        </div>
+</div>
+</div>
+
 
 
 

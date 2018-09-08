@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2d0d9d7d67a8306f96b9b13c495f3b44",
+        "contentDigest": "f5db272110abd618995211c254a2a522",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -422,16 +422,16 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
-      "port": 8002,
+      "port": "8000",
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-08T05:40:18.331Z",
+      "buildTime": "2018-09-08T05:04:57.606Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "11b6517ddb1a0401f6000695d2b49541",
+        "contentDigest": "3ec729993d5b26472e91b5655ec5c962",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -452,7 +452,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4e61b7f08af90fcb2a9ff28583301fcf",
+        "contentDigest": "7c55a176284a566b571d9aba2a0ba5b1",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -473,7 +473,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7c8e3534ecb748acc0d2573f0ee01b59",
+        "contentDigest": "64461653b21b682e4c16df844deac863",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -494,7 +494,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "893b9e2f795656e397ba981801550588",
+        "contentDigest": "a6c4372aa8816221534af69780f8e907",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -515,7 +515,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fd54eaadfb84fe06dacc6a190b8323e9",
+        "contentDigest": "641d90c5cdff2c1b7852abf32044d6d6",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
