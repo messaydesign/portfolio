@@ -53,6 +53,9 @@ a {
   font-size:  32px;
   font-weight: 800;
     }
+    .name img {
+      width: 75px;
+    }
 
 .nameCont {
   font-weight: 100;
