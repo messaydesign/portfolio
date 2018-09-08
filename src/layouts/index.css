@@ -156,9 +156,6 @@ a {
   background-image:url('../images/here.svg'),url('../images/hero-mob.jpg');
   background-size:cover;
   background-position: center;
-  width: 100vw;
-  height: 100vh;
-  
   display: grid;
   grid-template-columns: repeat(2, auto);
   grid-gap: 16px;
