@@ -153,7 +153,7 @@ a {
 
 
 .hero{
-  background-image:url('../images/here.svg'),url('../images/hero-mob.jpg');
+  background-image:url('../images/here.svg'),url('../images/hero.jpg');
   background-size:cover;
   width: 100%;
   height: 100vh;
