@@ -144,11 +144,76 @@ a {
 .social a:nth-child(6) {
   display: none;
 }
+}
 
+/* Ipad Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+    .hero{
+      background-image:url('../images/here.svg'),url('../images/hero-ipad.jpg');
+      width:100%;
+      background-size:cover;
+      background-position:center;
+      height: 100vh;
+      display: grid;
+        grid-template-columns: repeat(2, auto);
+        grid-gap: 16px;
+        justify-items:left;
+        align-items: center;
+    }
+
+    .heroGroup {
+      max-width: 100%;
+      margin: 0 auto;
+      padding: 34vh 10vw;
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      grid-gap: 16px;
+  }
+  .amharic {
+    color:#3b403f;
+    font-family: 'Noto Sans Kannada', sans-serif;
+    opacity: 0.6;;
+  }
+  .name {
+    grid-row: span 2 / auto;
+    font-family: "marydale",sans-serif;
+    font-size:  18px;
+    font-weight: 800;
+      }
+      .name img {
+        width: 75px;
+      }
+  
+  .nameCont {
+    font-weight: 100;
+    max-width: 80%;
+    font-size: 20px;
+  }
+  
+  .nameCont strong {
+    font-weight: 100;
+    font-size: 42px;
+  }
+  .social a {
+    padding-right: 36px;
+    transition: all 0.5s ease;
+    
+  }
+  
+  .social a:hover {
+    opacity: 0.4;
+  }
 
 
 
 }
+
+
+
 
 
 
