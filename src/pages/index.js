@@ -81,7 +81,24 @@ Each individual from different disciplinary provides a unique and valuable persp
 </div>
 </div>
 
+<div className="main">
+  <div className="mainGroup">
+ 
+  <div className="mainGroupImg">  <button> The Process </button></div>
 
+  <div>
+    <h1> User Experience Design? </h1>
+    <p> User Experience Design (UXD or UED) is the process of enhancing 
+      user satisfaction with a product by improving the usability, accessibility, 
+      and pleasure provided in the interaction with the product.” — Wikipedia
+
+ 
+        </p> </div>
+
+
+
+  </div>
+</div>
 
   </div>
 )

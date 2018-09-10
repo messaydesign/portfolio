@@ -158,7 +158,7 @@ a {
 }
 
 .mainGroup {
-  background-color: #0c0c0c;
+  background-color: white;
   max-width: 1200px;
   margin:0 auto;
   height: auto;
@@ -168,51 +168,53 @@ a {
 }
 
 .mainGroupImg {
-  background-image: url('../images/pr-image.jpg');
+  background-image: url('../images/pro.svg');
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   width:100%;
-  height: 500px;
+  height: auto;
   position: relative;
+  align-items: center;
 }
 
 .mainGroup p {
-font-weight: 100;
-padding: 0 10%;
-text-align: left;
+  color: black;
+  margin: 20%;
+  font-weight: 100;
+  text-align: left;
+  font-size: 28px;
 }
 .mainGroup h1 {
+  color: black;
+  margin: 20%;
   font-family: 'Open Sans', sans-serif;
-  font-size:  48px;
   font-weight: 800;
   text-align: left;
-  padding: 0 10%;
+  
 }
 .mainGroup button {
   padding: 24px 62px;
   font-size: 24px;
   position: absolute;
-    bottom: 8px;
-    right: 16px;
+  top: 24px;
+  left: 24px;
   background-color:white;
   border: 0;
-  font-weight: 100; 
+  font-weight: 300; 
+  outline: none;
   transition: all 0.5s ease;
-  
 }
 
 .mainGroup button:hover {
-  padding-top: 60%;
+  padding: 24px 62px;
   font-size: 24px;
   position: absolute;
-    bottom: 8px;
-    right: 16px;
-  background-color:black;
+  background-color:#F0A93B;
   color: white;
   border: 0;
-  font-weight: 100;
-
-  
-}
+  font-weight: 300;
+  }
 
 
 
@@ -341,20 +343,21 @@ text-align: left;
 
 .main {
   background-image: url('../images/layer.svg');
-  background-position: center;
+  background-position: left;
   background-size: cover;
   background-color: white;
   margin-top: 10%;
   width: 100%;
-  padding:20% 0 40% 0;
+  height: auto;
+  padding: 10% 0 10% 0;
   -webkit-clip-path: polygon(100% 0, 100% 91%, 32% 97%, 0 86%, 0 0);
-clip-path: polygon(100% 0, 100% 91%, 32% 97%, 0 86%, 0 0);
+  clip-path: polygon(100% 0, 100% 91%, 32% 97%, 0 86%, 0 0);
+
 }
 
 .mainGroup {
-  background-image: url('../images/circle.svg');
-  background-color: #0c0c0c;
-  max-width: 90%;
+  background-color: white;
+  max-width: 1200px;
   margin:0 auto;
   height: auto;
   display: grid;
@@ -363,35 +366,55 @@ clip-path: polygon(100% 0, 100% 91%, 32% 97%, 0 86%, 0 0);
 }
 
 .mainGroupImg {
-  background-image: url('../images/pr-image.jpg');
+  background-image: url('../images/pro.svg');
   background-size: cover;
-  width:100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width:350px;
   height: 500px;
+  margin: 0 auto;
   position: relative;
+  align-items: center;
 }
 
 .mainGroup p {
-font-weight: 100;
-padding: 0 10% 20% 10%;
-text-align: left;
-font-size: 16px;
+  color: black;
+  margin-bottom: 50%;
+  font-weight: 100;
+  text-align: left;
+  font-size: 18px;
 }
 .mainGroup h1 {
+  color: black;
+  margin: 20%;
   font-family: 'Open Sans', sans-serif;
-  font-size:  36px;
   font-weight: 800;
   text-align: left;
-  padding: 0 10%;
+  
 }
 .mainGroup button {
-  padding: 24px 16px;
+  padding: 24px 62px;
   font-size: 24px;
   position: absolute;
-    bottom: 8px;
-    right: 16px;
-  
-  
+  top: 24px;
+  left: 24px;
+  background-color:white;
+  border: 0;
+  font-weight: 300; 
+  outline: none;
+  transition: all 0.5s ease;
 }
+
+.mainGroup button:hover {
+  padding: 24px 62px;
+  font-size: 24px;
+  position: absolute;
+  background-color:#F0A93B;
+  color: white;
+  border: 0;
+  font-weight: 300;
+  }
+
 
 }
 
