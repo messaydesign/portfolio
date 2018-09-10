@@ -30,6 +30,7 @@ a {
   background-image:url('../images/here.svg'),url('../images/hero.jpg');
   width:100%;
   background-size: cover;
+  background-attachment: fixed;
    background-position: center;
    opacity: 0;
    animation: HeroAnimation;
@@ -41,7 +42,7 @@ a {
 .heroGroup {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 30vh 25vw;
+    padding: 25vh 10vw;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 16px;
