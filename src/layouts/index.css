@@ -30,7 +30,7 @@ a {
   background-image:url('../images/here.svg'),url('../images/hero.jpg');
   width:100%;
   background-size: cover;
-  background-attachment:scroll;
+  background-attachment:fixed;
    background-position: center;
    opacity: 0;
    animation: HeroAnimation;
@@ -158,6 +158,7 @@ a {
   background-image:url('../images/hero-mob.jpg');
   width:100%;
   background-size: cover;
+  background-attachment:scroll;
    background-position: center;
    opacity: 0;
    animation: HeroAnimation;
@@ -279,6 +280,7 @@ a {
       width:100%;
       height: 100vh;
       background-size:cover;
+      background-attachment:scroll;
       background-position:cover;
       display: grid;
         grid-template-columns: repeat(2, auto);
