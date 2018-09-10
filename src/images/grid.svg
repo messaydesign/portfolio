@@ -7,12 +7,8 @@
 	.st1{fill:none;stroke:#CECECE;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
 	.st2{fill:none;stroke:#CECECE;stroke-width:0.5;stroke-miterlimit:10;}
 	.st3{fill:none;stroke:#CECECE;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:7.9851,0;}
-	.st4{opacity:0.18;fill:#1791FF;}
-	.st5{opacity:0.18;fill:#FF00BD;}
-	.st6{opacity:0.18;fill:#606060;}
-	.st7{opacity:0.18;fill:#00FFFF;}
-	.st8{opacity:0.18;fill:#FFE28B;}
-	.st9{opacity:0.18;fill:#FFFFFF;}
+	.st4{opacity:0.18;fill:#606060;enable-background:new    ;}
+	.st5{opacity:0.18;fill:#FFFFFF;enable-background:new    ;}
 </style>
 <title>grid</title>
 <g id="Layer_2_1_" class="st0">
@@ -189,10 +185,10 @@
 	</g>
 </g>
 <rect x="87.2" y="281" class="st4" width="87.1" height="20"/>
-<rect x="522.6" y="699" class="st5" width="87.1" height="20"/>
-<rect x="957" y="610.3" class="st6" width="87.1" height="20"/>
-<rect x="261.4" y="555.7" class="st6" width="87.1" height="10"/>
-<rect x="609.7" y="345.7" class="st7" width="87.1" height="20"/>
-<rect x="783.8" y="782.3" class="st8" width="87.1" height="20"/>
-<rect x="348.4" y="911.7" class="st9" width="87.1" height="20"/>
+<rect x="522.6" y="699" class="st4" width="87.1" height="20"/>
+<rect x="957" y="610.3" class="st4" width="87.1" height="4.7"/>
+<rect x="261.4" y="555.7" class="st4" width="87.1" height="10"/>
+<rect x="609.7" y="345.7" class="st4" width="87.1" height="10"/>
+<rect x="783.8" y="782.3" class="st4" width="87.1" height="20"/>
+<rect x="348.4" y="911.7" class="st5" width="87.1" height="20"/>
 </svg>

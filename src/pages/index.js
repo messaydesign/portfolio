@@ -21,7 +21,7 @@ const IndexPage = () => (
      <a href="https://dribbble.com/messay_design"><img src={require ('../images/dribbble.svg')} width="20"/></a>
      <a href="https://twitter.com/messay_co"><img src={require ('../images/twitter.svg')} width="20"/></a>
      <a href="/"><img src={require ('../images/medium.svg')} width="20"/></a>
-     <a href="www.linkedin.com/in/messayf"><img src={require ('../images/linkedin.svg')} width="20"/></a>
+     <a href="https://www.linkedin.com/in/messayf/"><img src={require ('../images/linkedin.svg')} width="20"/></a>
      <a href="https://www.behance.net/messayco"><img src={require ('../images/behance.svg')} width="100"/></a>
      <a href="/"><img src={require ('../images/github.svg')} width="20"/></a>
      </div>
