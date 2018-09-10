@@ -32,7 +32,6 @@ a {
   background-size: cover;
    background-position: center;
    opacity: 0;
-   background-attachment: fixed;
    animation: HeroAnimation;
   animation-duration:10s;
   animation-fill-mode: forwards;
@@ -159,7 +158,6 @@ a {
   background-size: cover;
    background-position: center;
    opacity: 0;
-   background-attachment: fixed;
    animation: HeroAnimation;
   animation-duration:10s;
   animation-fill-mode: forwards;
