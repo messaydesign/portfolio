@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,400,700,700i,900,900i');
 @import url("https://use.typekit.net/pat7xxp.css");
 @import url(//fonts.googleapis.com/earlyaccess/notosanskannada.css);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 
 
 body {
+  background-image:url('../images/grid.svg');
   color: white;
   overflow-x: hidden;
   background-color:#0c0c0c;
@@ -85,7 +87,7 @@ a {
 
 .section {
   background-image: url('../images/img.svg');
-  background-size: cover;
+  background-size: contain;
   width: 100%;
   height: 100vh;
 }
@@ -113,6 +115,10 @@ a {
 }
 
 .sections {
+  background-image: url('../images/circle.svg');
+
+  background-size: cover;
+  background-position: center;
   width: 1200px;
   margin: 0 auto;
 }
@@ -133,15 +139,80 @@ a {
 
 .section1 p{
   font-weight: 100;
+  color:#AAACBE;
   font-size: 20px;
   line-height: 28px;
   padding:0 48px 0 48px;
 }
+.main {
+  background-image: url('../images/layer.svg');
+  background-position: center;
+  background-size: cover;
+  background-color: white;
+  margin-top: 10%;
+  width: 100%;
+  height: auto;
+  padding: 10% 0 10% 0;
+  -webkit-clip-path: polygon(100% 0, 100% 91%, 32% 97%, 0 86%, 0 0);
+  clip-path: polygon(100% 0, 100% 91%, 32% 97%, 0 86%, 0 0);
 
+}
 
+.mainGroup {
+  background-color: #0c0c0c;
+  max-width: 1200px;
+  margin:0 auto;
+  height: auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
 
+.mainGroupImg {
+  background-image: url('../images/pr-image.jpg');
+  background-size: cover;
+  width:100%;
+  height: 500px;
+  position: relative;
+}
 
+.mainGroup p {
+font-weight: 100;
+padding: 0 10%;
+text-align: left;
+}
+.mainGroup h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size:  48px;
+  font-weight: 800;
+  text-align: left;
+  padding: 0 10%;
+}
+.mainGroup button {
+  padding: 24px 62px;
+  font-size: 24px;
+  position: absolute;
+    bottom: 8px;
+    right: 16px;
+  background-color:white;
+  border: 0;
+  font-weight: 100; 
+  transition: all 0.5s ease;
+  
+}
 
+.mainGroup button:hover {
+  padding: 24px 62px;
+  font-size: 24px;
+  position: absolute;
+    bottom: 8px;
+    right: 16px;
+  background-color:black;
+  color: white;
+  border: 0;
+  font-weight: 100;  
+  
+}
 
 
 
@@ -265,6 +336,61 @@ a {
   font-weight: 100;
   font-size: 16px;
   padding:0 24px 0 24px;
+}
+
+
+.main {
+  background-image: url('../images/layer.svg');
+  background-position: center;
+  background-size: cover;
+  background-color: white;
+  margin-top: 10%;
+  width: 100%;
+  padding:20% 0 40% 0;
+  -webkit-clip-path: polygon(100% 0, 100% 91%, 32% 97%, 0 86%, 0 0);
+clip-path: polygon(100% 0, 100% 91%, 32% 97%, 0 86%, 0 0);
+}
+
+.mainGroup {
+  background-image: url('../images/circle.svg');
+  background-color: #0c0c0c;
+  max-width: 90%;
+  margin:0 auto;
+  height: auto;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 10px;
+}
+
+.mainGroupImg {
+  background-image: url('../images/pr-image.jpg');
+  background-size: cover;
+  width:100%;
+  height: 500px;
+  position: relative;
+}
+
+.mainGroup p {
+font-weight: 100;
+padding: 0 10% 20% 10%;
+text-align: left;
+font-size: 16px;
+}
+.mainGroup h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size:  36px;
+  font-weight: 800;
+  text-align: left;
+  padding: 0 10%;
+}
+.mainGroup button {
+  padding: 24px 16px;
+  font-size: 24px;
+  position: absolute;
+    bottom: 8px;
+    right: 16px;
+  
+  
 }
 
 }
