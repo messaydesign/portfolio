@@ -533,7 +533,79 @@ a {
     font-size: 20px;
     padding:0 48px 0 48px;
   }
-
+  .main {
+    background-image: url('../images/layer.svg');
+    background-position: left;
+    background-size: cover;
+    background-color: white;
+    margin-top: 10%;
+    width: 100%;
+    height: auto;
+    padding: 10% 0 10% 0;
+    -webkit-clip-path: polygon(100% 0, 100% 91%, 32% 97%, 0 86%, 0 0);
+    clip-path: polygon(100% 0, 100% 91%, 32% 97%, 0 86%, 0 0);
+  
+  }
+  
+  .mainGroup {
+    background-color: white;
+    max-width: 1200px;
+    margin:0 auto;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 10px;
+  }
+  
+  .mainGroupImg {
+    background-image: url('../images/pro.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:100%;
+    height: 700px;
+    position: relative;
+    align-items: center;
+  }
+  
+  .mainGroup p {
+    color: black;
+    margin: 20%;
+    font-weight: 100;
+    text-align: left;
+    font-size: 28px;
+  }
+  .mainGroup h1 {
+    color: black;
+    margin: 20%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    text-align: left;
+    
+  }
+  .mainGroup button {
+    padding: 24px 62px;
+    font-size: 24px;
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    background-color:white;
+    border: 0;
+    font-weight: 300; 
+    outline: none;
+    transition: all 0.5s ease;
+  }
+  
+  .mainGroup button:hover {
+    padding: 24px 62px;
+    font-size: 24px;
+    position: absolute;
+    background-color:#F0A93B;
+    color: white;
+    border: 0;
+    font-weight: 300;
+    }
+  
 }
 
 
