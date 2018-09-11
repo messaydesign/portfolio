@@ -96,7 +96,7 @@ Each individual from different disciplinary provides a unique and valuable persp
   </div>
 </div>
 
-<form action="../pages/success " name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" netlify >
+<form action="/pages/success " name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" netlify >
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>

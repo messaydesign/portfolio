@@ -6,7 +6,7 @@ exports.components = {
   "component---src-pages-404-js": require("gatsby-module-loader?name=component---src-pages-404-js!/Users/mdenbel/Documents/portfolio/src/pages/404.js"),
   "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!/Users/mdenbel/Documents/portfolio/src/pages/index.js"),
   "component---src-pages-page-2-js": require("gatsby-module-loader?name=component---src-pages-page-2-js!/Users/mdenbel/Documents/portfolio/src/pages/page-2.js"),
-  "component---src-pages-success-js": require("gatsby-module-loader?name=component---src-pages-success-js!/Users/mdenbel/Documents/portfolio/src/pages/success.js")
+  "component---src-pages-pages-success-js": require("gatsby-module-loader?name=component---src-pages-pages-success-js!/Users/mdenbel/Documents/portfolio/src/pages/pages/success.js")
 }
 
 exports.json = {
@@ -16,7 +16,7 @@ exports.json = {
   "index.json": require("gatsby-module-loader?name=path---index!/Users/mdenbel/Documents/portfolio/.cache/json/index.json"),
   "page-2.json": require("gatsby-module-loader?name=path---page-2!/Users/mdenbel/Documents/portfolio/.cache/json/page-2.json"),
   "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/mdenbel/Documents/portfolio/.cache/json/404-html.json"),
-  "success.json": require("gatsby-module-loader?name=path---success!/Users/mdenbel/Documents/portfolio/.cache/json/success.json")
+  "pages-success.json": require("gatsby-module-loader?name=path---pages-success!/Users/mdenbel/Documents/portfolio/.cache/json/pages-success.json")
 }
 
 exports.layouts = {
