@@ -8,10 +8,10 @@ const success = () => (
     <div className="successGroup">
     <div className="back">
     <h1> 
-    <img src={require ('../pages/img/suc.svg')} width="100"/> <br/><br/>  
+    <img src={require ('../images/suc.svg')} width="100"/> <br/><br/>  
       I recived your message and <br/>I will be contacting you shortly to follow-up.<br/><br/>
     </h1>
-     <div className="backButton">  <Link to="/"> <img src={require ('../pages/img/back.svg')} width="50"/></Link>  </div>
+     <div className="backButton">  <Link to="/"> <img src={require ('../images/back.svg')} width="50"/></Link>  </div>
      </div>
     
     </div>
