@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,400,700,700i,900,900i');
+@import url("https://use.typekit.net/pat7xxp.css");
+@import url(//fonts.googleapis.com/earlyaccess/notosanskannada.css);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+.success {
+ 
+    width: 100vw;
+    height: 100vh;
+}
+.successGroup {
+    max-width: 1200px;
+    background-color: #383838;
+    width: 80%;
+    height: 80%;
+    vertical-align: middle;
+    position:absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+
+
+.back {
+    font-weight: 100;
+    font-size: 23px;
+    text-align: center;
+    width: 80%;
+    height: 80%;
+    vertical-align: middle;
+    position:absolute;
+    top: 20;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+.back h1 {
+    font-weight: 100;
+    font-size: 32px;
+}
+
+.backButton :hover {
+    opacity: 0.8;
+}
