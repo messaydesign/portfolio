@@ -10,7 +10,8 @@ exports.components = {
   "component---cache-dev-404-page-js": preferDefault(require("/Users/mdenbel/Documents/portfolio/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/Users/mdenbel/Documents/portfolio/src/pages/404.js")),
   "component---src-pages-index-js": preferDefault(require("/Users/mdenbel/Documents/portfolio/src/pages/index.js")),
-  "component---src-pages-page-2-js": preferDefault(require("/Users/mdenbel/Documents/portfolio/src/pages/page-2.js"))
+  "component---src-pages-page-2-js": preferDefault(require("/Users/mdenbel/Documents/portfolio/src/pages/page-2.js")),
+  "component---src-pages-success-js": preferDefault(require("/Users/mdenbel/Documents/portfolio/src/pages/success.js"))
 }
 
 exports.json = {
@@ -19,5 +20,6 @@ exports.json = {
   "404.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/404.json"),
   "index.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/index.json"),
   "page-2.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/page-2.json"),
-  "404-html.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/404-html.json")
+  "404-html.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/404-html.json"),
+  "success.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/success.json")
 }
