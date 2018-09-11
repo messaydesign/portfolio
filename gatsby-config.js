@@ -6,10 +6,6 @@ module.exports = {
     author: 'MessayDenbel',
     image: './images/meta-hero.jpg',
   },
-  plugins: ['gatsby-plugin-react-helmet'],
-}
-
-module.exports = {
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -30,4 +26,8 @@ module.exports = {
       },
     },
   ],
+
 }
+
+
+  

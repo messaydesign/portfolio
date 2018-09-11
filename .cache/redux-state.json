@@ -419,7 +419,13 @@
       }
     },
     "Site": {
-      "siteMetadata": {},
+      "siteMetadata": {
+        "title": "Messay' Portfolio",
+        "siteUrl": "https://www.messay.design",
+        "description": "Online portfolio for Messay F. Denbel",
+        "author": "MessayDenbel",
+        "image": "./images/meta-hero.jpg"
+      },
       "port": "8000",
       "host": "localhost",
       "buildTime": "2018-09-11T15:21:24.372Z",
@@ -427,7 +433,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "28313d98ec4e8e3844c9ddfaaab7f2dd",
+        "contentDigest": "69c00b9ad0f09dbb52a53b1de5d8b0d9",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
