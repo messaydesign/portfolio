@@ -97,7 +97,17 @@ Each individual from different disciplinary provides a unique and valuable persp
 </div>
 <div ClassName="contactWrrap">
 <div className ="contact">
-<div className ="contactLeft"> </div> 
+<div className ="contactLeft">
+<div className="social">
+     <a href="https://www.instagram.com/messay_d/"><img src={require ('../images/insta.svg')} width="20"/></a>
+     <a href="https://dribbble.com/messay_design"><img src={require ('../images/dribbble.svg')} width="20"/></a>
+     <a href="https://twitter.com/messay_co"><img src={require ('../images/twitter.svg')} width="20"/></a>
+     <a href="/"><img src={require ('../images/medium.svg')} width="20"/></a>
+     <a href="https://www.linkedin.com/in/messayf/"><img src={require ('../images/linkedin.svg')} width="20"/></a>
+     <a href="https://www.behance.net/messayco"><img src={require ('../images/behance.svg')} width="100"/></a>
+     <a href="/"><img src={require ('../images/github.svg')} width="20"/></a>
+     </div>
+ </div> 
 <div className="contactName">
 <h1> Lets Talk </h1>
 <form action="/success " name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" netlify >
