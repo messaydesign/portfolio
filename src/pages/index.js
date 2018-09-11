@@ -95,29 +95,28 @@ Each individual from different disciplinary provides a unique and valuable persp
 
   </div>
 </div>
-
+<div ClassName="contactWrrap">
+<div className ="contact">
+<div className ="contactLeft"> </div> 
+<div className="contactName">
+<h1> Lets Talk </h1>
 <form action="/success " name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" netlify >
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <label>Your Name <input type="text" name="name" /></label>   
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label>Your Email  <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="Recruiter">Recruiter</option>
-      <option value="Employer">Employer</option>
-      <option value="Designer">Designer</option>
-      <option value="Developer">Developer</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Message <textarea name="message"></textarea></label>
   </p>
   <p>
     <button type="submit">Send</button>
   </p>
 </form>
+</div>
+</div>
+</div>
   </div>
 )
 

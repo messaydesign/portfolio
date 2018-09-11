@@ -52,3 +52,73 @@
 .social {
     padding-top:10%;
 }
+
+.contactWrrap {
+    width: 100%;
+}
+
+.contactLeft {
+    background-image: url('../images/sketch.jpeg');
+    background-size:cover;
+}
+.contact {
+    width:70%;
+    margin: 10% auto 10% auto;
+    display:grid;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.contactName {
+  font-family:'Roboto';
+  font-weight: 100;
+  width:400px; 
+  display:block; 
+  background:#FFF;
+  padding:10px 50px 50px;
+}
+.contactName h1 {
+    color:black;
+    font-family: "marydale",sans-serif;
+    font-size:  62px;
+    font-weight: 800;
+}
+
+
+
+.contactName label {
+ color :black;
+ font-size: 16px;
+}
+.contactName input  {
+    font-size:32px;
+    padding:10px 10px 10px 5px;
+    display:block;
+    width:100%;
+    border:none;
+    border-bottom:1px solid #757575;
+    outline:none; 
+    margin: 0 auto;
+}
+
+.contactName  textarea{
+    font-size:18px;
+    padding:10px 10px 10px 5px;
+    display:block;
+    width:100%;
+    border:none;
+    border-bottom:1px solid #757575;
+    outline:none; 
+    margin: 0 auto;
+}
+.contactName button {
+    width:100%;
+    margin-top: 20px;
+    padding: 20px 16px;
+    background-color: #383838;
+    color: white;
+    font-size: 24px;
+    outline: none;
+    font-weight: 100;
+    
+}
+
