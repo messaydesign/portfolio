@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cf6b53eb173e3eac5105ad208bb4dbee",
+        "contentDigest": "6bfb37d30b5937758ea98021b5eb4ca5",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -283,7 +283,7 @@
       "resolve": "/Users/mdenbel/Documents/portfolio",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "5109660e1e0327e1ee57e1f7d2921e7d",
+      "version": "dd6540e5bc6bf63124994f5e3cf98994",
       "pluginOptions": {
         "plugins": []
       },
@@ -331,7 +331,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3643f0a1e0062a7b85db85f6bfe2dbaf",
+        "contentDigest": "492dc9c510c204b49d4745420f99a977",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -420,18 +420,18 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Messay' Portfolio"
+        "title": "Messay' Portfolio",
+        "siteUrl": "https://www.messay.design",
+        "description": "Online portfolio for Messay f. Denbel"
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2018-09-10T22:17:05.252Z",
+      "buildTime": "2018-09-11T15:21:24.372Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "afd27b74409bb3dcf94551397a0a7a8f",
+        "contentDigest": "f94077059b44309b991e422b3c5f19d7",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -452,7 +452,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "572cff17153decf781b3be5e51bb7395",
+        "contentDigest": "22e18fcfb9fcc8b30609d41e4a2bd27f",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -473,7 +473,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1251971f069c79cc071c88bd52e8fd8a",
+        "contentDigest": "9cca6d8b012860cfc3143fb1495d4d75",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -494,7 +494,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "44e7055be505d6f20328c59ff228264c",
+        "contentDigest": "b2e1c38dd824ee093be153919dfbacad",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -515,7 +515,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f52894ce772a57e6595f6666a9a6d370",
+        "contentDigest": "d7b921880d3cd270cd9c2d4fccb682f9",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -523,7 +523,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "a52219d73b30cf63685130da3fabbe13"
+    "PLUGINS_HASH": "cf2369ef48e7075e048fd25226329d76"
   },
   "componentDataDependencies": {
     "nodes": {
