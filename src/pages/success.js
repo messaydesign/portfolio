@@ -12,6 +12,7 @@ const success = () => (
       I recived your message and <br/>I will be contacting you shortly to follow-up.<br/><br/>
     </h1>
      <div className="backButton">  <Link to="/"> <img src={require ('../images/back.svg')} width="50"/></Link>  
+     
      <div className="social">
      <a href="https://www.instagram.com/messay_d/"><img src={require ('../images/insta.svg')} width="20"/></a>
      <a href="https://dribbble.com/messay_design"><img src={require ('../images/dribbble.svg')} width="20"/></a>
