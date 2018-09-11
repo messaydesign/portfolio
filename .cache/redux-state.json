@@ -422,7 +422,8 @@
       "siteMetadata": {
         "title": "Messay' Portfolio",
         "siteUrl": "https://www.messay.design",
-        "description": "Online portfolio for Messay f. Denbel"
+        "description": "Online portfolio for Messay f. Denbel",
+        "image": "../images/hero.jpg"
       },
       "port": "8000",
       "host": "localhost",
@@ -431,7 +432,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f94077059b44309b991e422b3c5f19d7",
+        "contentDigest": "9ec62a78ecaf3e4492a0eb5227f6cf78",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
