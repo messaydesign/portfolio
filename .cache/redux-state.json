@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6bfb37d30b5937758ea98021b5eb4ca5",
+        "contentDigest": "6d7b37f5314c1e3dd7e90c18f3a2bcf2",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -202,44 +202,46 @@
         "owner": "internal-data-bridge"
       }
     },
-    "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby-plugin-react-helmet",
-      "id": "Plugin gatsby-plugin-react-helmet",
-      "name": "gatsby-plugin-react-helmet",
-      "version": "2.0.11",
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.31",
       "pluginOptions": {
-        "plugins": []
+        "plugins": [],
+        "trackingId": "UA-101394601-1",
+        "head": false,
+        "anonymize": true,
+        "respectDNT": true,
+        "exclude": [
+          "/preview/**",
+          "/do-not-track/me/too/"
+        ],
+        "sampleRate": 5,
+        "siteSpeedSampleRate": 10,
+        "cookieDomain": "messay.design"
       },
       "nodeAPIs": [],
-      "browserAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby-plugin-google-analytics",
       "packageJson": {
-        "name": "gatsby-plugin-react-helmet",
-        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
-        "version": "2.0.11",
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.31",
         "main": "index.js",
         "keywords": [
           "gatsby",
           "gatsby-plugin",
-          "favicon",
-          "react-helmet",
-          "seo",
-          "document",
-          "head",
-          "title",
-          "meta",
-          "link",
-          "script",
-          "base",
-          "noscript",
-          "style"
+          "google analytics"
         ],
         "author": {
           "name": "Kyle Mathews",
-          "email": "matthews.kyle@gmail.com"
+          "email": "mathews.kyle@gmail.com"
         },
         "license": "MIT",
         "dependencies": [
@@ -262,10 +264,6 @@
           {
             "name": "gatsby",
             "version": "^1.0.0"
-          },
-          {
-            "name": "react-helmet",
-            "version": ">=5.1.3"
           }
         ],
         "optionalDependecies": [],
@@ -274,7 +272,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ad8175020e258e36f022e699bda8fab3",
+        "contentDigest": "6b07bb9e34fedfee6a63d84946295916",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -283,7 +281,7 @@
       "resolve": "/Users/mdenbel/Documents/portfolio",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "dd6540e5bc6bf63124994f5e3cf98994",
+      "version": "5c4065c9981176242d565d5004f2e32c",
       "pluginOptions": {
         "plugins": []
       },
@@ -310,6 +308,10 @@
             "version": "^1.6.46"
           },
           {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.31"
+          },
+          {
             "name": "gatsby-plugin-react-helmet",
             "version": "^2.0.11"
           },
@@ -331,7 +333,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "492dc9c510c204b49d4745420f99a977",
+        "contentDigest": "6c8649238aa274f15cff9642cfb9de8e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -428,12 +430,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2018-09-11T15:21:24.372Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-09-11T20:56:36.800Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "69c00b9ad0f09dbb52a53b1de5d8b0d9",
+        "contentDigest": "0ccd7a755a7def8c9990cabfecada098",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -454,7 +458,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "22e18fcfb9fcc8b30609d41e4a2bd27f",
+        "contentDigest": "4b199778b78c8e4d8667c9f1c10e967a",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -475,7 +479,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9cca6d8b012860cfc3143fb1495d4d75",
+        "contentDigest": "183de60fabe675db25327bc1e562f80e",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -496,7 +500,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b2e1c38dd824ee093be153919dfbacad",
+        "contentDigest": "a563326ad8a64d2eca5f693ea30909ad",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /pages/success/": {
+      "layout": "index",
+      "jsonName": "pages-success.json",
+      "internalComponentName": "ComponentPagesSuccess",
+      "path": "/pages/success/",
+      "component": "/Users/mdenbel/Documents/portfolio/src/pages/pages/success.js",
+      "componentChunkName": "component---src-pages-pages-success-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/mdenbel/Documents/portfolio/src/pages/pages/success.js",
+      "id": "SitePage /pages/success/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1af2d861aeb8ea5f9853b8dc8723e3f6",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -517,36 +542,15 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d7b921880d3cd270cd9c2d4fccb682f9",
+        "contentDigest": "04a38d5d549ee4153e5dc26fbc68c52b",
         "description": "Plugin prod-404",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /pages/success/": {
-      "layout": "index",
-      "jsonName": "pages-success.json",
-      "internalComponentName": "ComponentPagesSuccess",
-      "path": "/pages/success/",
-      "component": "/Users/mdenbel/Documents/portfolio/src/pages/pages/success.js",
-      "componentChunkName": "component---src-pages-pages-success-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/mdenbel/Documents/portfolio/src/pages/pages/success.js",
-      "id": "SitePage /pages/success/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f6caa2a798cfd944458b29ac95e4f51a",
-        "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "cf2369ef48e7075e048fd25226329d76"
+    "PLUGINS_HASH": "6f8d558f2517c889b7ee005d7b65da09"
   },
   "componentDataDependencies": {
     "nodes": {

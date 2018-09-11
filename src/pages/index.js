@@ -95,6 +95,7 @@ Each individual from different disciplinary provides a unique and valuable persp
 
   </div>
 </div>
+{/*
 <form action="/pages/success " name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" netlify >
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
@@ -104,8 +105,10 @@ Each individual from different disciplinary provides a unique and valuable persp
   </p>
   <p>
     <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
+      <option value="Recruiter">Recruiter</option>
+      <option value="Employer">Employer</option>
+      <option value="Designer">Designer</option>
+      <option value="Developer">Developer</option>
     </select></label>
   </p>
   <p>
@@ -115,7 +118,7 @@ Each individual from different disciplinary provides a unique and valuable persp
     <button type="submit">Send</button>
   </p>
 </form>
-
+*/}
   </div>
 )
 

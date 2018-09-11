@@ -20,6 +20,6 @@ exports.json = {
   "404.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/404.json"),
   "index.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/index.json"),
   "page-2.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/page-2.json"),
-  "404-html.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/404-html.json"),
-  "pages-success.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/pages-success.json")
+  "pages-success.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/pages-success.json"),
+  "404-html.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/404-html.json")
 }

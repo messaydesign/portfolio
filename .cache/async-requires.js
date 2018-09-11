@@ -15,8 +15,8 @@ exports.json = {
   "404.json": require("gatsby-module-loader?name=path---404!/Users/mdenbel/Documents/portfolio/.cache/json/404.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/Users/mdenbel/Documents/portfolio/.cache/json/index.json"),
   "page-2.json": require("gatsby-module-loader?name=path---page-2!/Users/mdenbel/Documents/portfolio/.cache/json/page-2.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/mdenbel/Documents/portfolio/.cache/json/404-html.json"),
-  "pages-success.json": require("gatsby-module-loader?name=path---pages-success!/Users/mdenbel/Documents/portfolio/.cache/json/pages-success.json")
+  "pages-success.json": require("gatsby-module-loader?name=path---pages-success!/Users/mdenbel/Documents/portfolio/.cache/json/pages-success.json"),
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/mdenbel/Documents/portfolio/.cache/json/404-html.json")
 }
 
 exports.layouts = {
