@@ -1,0 +1,3 @@
+
+*.json
+.cache/redux-state.json
