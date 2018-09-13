@@ -15,15 +15,6 @@ exports.components = {
 }
 
 exports.json = {
-<<<<<<< HEAD
-  "layout-index.json": require("/Users/messaydenbel/Documents/portfolio/.cache/json/layout-index.json"),
-  "dev-404-page.json": require("/Users/messaydenbel/Documents/portfolio/.cache/json/dev-404-page.json"),
-  "404.json": require("/Users/messaydenbel/Documents/portfolio/.cache/json/404.json"),
-  "index.json": require("/Users/messaydenbel/Documents/portfolio/.cache/json/index.json"),
-  "page-2.json": require("/Users/messaydenbel/Documents/portfolio/.cache/json/page-2.json"),
-  "success.json": require("/Users/messaydenbel/Documents/portfolio/.cache/json/success.json"),
-  "404-html.json": require("/Users/messaydenbel/Documents/portfolio/.cache/json/404-html.json")
-=======
   "layout-index.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/layout-index.json"),
   "dev-404-page.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/dev-404-page.json"),
   "404.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/404.json"),
@@ -31,5 +22,4 @@ exports.json = {
   "page-2.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/page-2.json"),
   "success.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/success.json"),
   "404-html.json": require("/Users/mdenbel/Documents/portfolio/.cache/json/404-html.json")
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
 }
