@@ -1,3 +1,7 @@
 
 *.json
 .cache/redux-state.json
+*.js
+*.json
+*.js
+*.js
