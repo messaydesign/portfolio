@@ -123,3 +123,45 @@
     right:0;
     margin-bottom: 5%;
 }
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+
+
+    .contact {
+        width:70%;
+        display: grid;
+    }
+
+    .contactName input  {
+        font-size:18px;
+        width:100%;
+        border:none;
+        border-bottom:1px solid #757575;
+        outline:none; 
+        margin: 0 auto;
+    }
+
+
+    .contactName {
+        font-family:'Roboto';
+        font-weight: 100;
+        width:300px;  
+        background:#FFF;
+        
+      }
+    .contactLeft {
+        display:none;
+    }
+    .contact {
+        width:70%;
+        margin: 0 ;
+        display:grid;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+  }
