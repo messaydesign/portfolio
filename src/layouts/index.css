@@ -95,7 +95,8 @@ a {
   max-width: 1200px;
   margin: 0 auto;
   z-index: 1;
-  padding-top: 25vh;
+  padding-top: 10vh;
+  margin-bottom: 10%;
 }
 
 .sectionGroup h1 {
@@ -110,8 +111,10 @@ a {
   margin: 0 auto;
   max-width: 100%;
   font-weight: 100;
-  font-size: 20px;
-  line-height: 32px;
+  font-size: 18px;
+  line-height:1.8rem;
+  width: 900px;
+  
 }
 
 .sections {

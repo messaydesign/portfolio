@@ -16,11 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "b01774d03db3c069b05afc780bdd6857",
-=======
-        "contentDigest": "4994484a52612d410366a6797d0825c2",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
+        "contentDigest": "b2fc327813d01b528d5acbd7727611d3",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -207,11 +203,7 @@
       }
     },
     "Plugin gatsby-plugin-google-analytics": {
-<<<<<<< HEAD
-      "resolve": "/Users/messaydenbel/Documents/portfolio/node_modules/gatsby-plugin-google-analytics",
-=======
       "resolve": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby-plugin-google-analytics",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
       "id": "Plugin gatsby-plugin-google-analytics",
       "name": "gatsby-plugin-google-analytics",
       "version": "1.0.31",
@@ -236,11 +228,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-<<<<<<< HEAD
-      "pluginFilepath": "/Users/messaydenbel/Documents/portfolio/node_modules/gatsby-plugin-google-analytics",
-=======
       "pluginFilepath": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby-plugin-google-analytics",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
       "packageJson": {
         "name": "gatsby-plugin-google-analytics",
         "description": "Gatsby plugin to add google analytics onto a site",
@@ -284,11 +272,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-<<<<<<< HEAD
-        "contentDigest": "fa834d79fe1ce015d1b84377785cb663",
-=======
         "contentDigest": "6b07bb9e34fedfee6a63d84946295916",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -349,11 +333,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-<<<<<<< HEAD
-        "contentDigest": "59aaa036f44d8497c5022330f9f19736",
-=======
         "contentDigest": "6c8649238aa274f15cff9642cfb9de8e",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -452,20 +432,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-<<<<<<< HEAD
-      "buildTime": "2018-09-12T01:27:32.187Z",
-=======
-      "buildTime": "2018-09-12T15:38:44.234Z",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
+      "buildTime": "2018-09-17T20:36:18.532Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-<<<<<<< HEAD
-        "contentDigest": "69b10c867e934be157c3a3a32ace0149",
-=======
-        "contentDigest": "e1bce1a8c6ef4c656341597134e462e5",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
+        "contentDigest": "b0d76981c0ed777c0e9914c1ad01eb9f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -486,11 +458,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "8b9c37eb83e5e80af150bb377ab0e62c",
-=======
-        "contentDigest": "5c2dc3fc598052b9c45cd49f554fd124",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
+        "contentDigest": "61c562e8f116f103c76369867c538f7d",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -511,11 +479,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "a933b46f263718245a40f81192d9a054",
-=======
-        "contentDigest": "51c5759361ea78961f74085ebc2a26f7",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
+        "contentDigest": "0f83d2ab563a6ef1d70cf43ffd734e57",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -536,11 +500,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "9acaf274044ef2391a2079b2dead55d2",
-=======
-        "contentDigest": "31b301c15ec61cbe17c58c5b759e4467",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
+        "contentDigest": "baa4bf2d34abfd695dfadb90e77b3e22",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -561,11 +521,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "12203b01f9bbf186f0820acf8ea1019c",
-=======
-        "contentDigest": "48bec02cbc07f110b7944efbd8ac44b2",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
+        "contentDigest": "5789fe8914fac641fec8ecf79f227f17",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -575,30 +531,18 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-<<<<<<< HEAD
-      "component": "/Users/messaydenbel/Documents/portfolio/src/pages/404.js",
-=======
       "component": "/Users/mdenbel/Documents/portfolio/src/pages/404.js",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-<<<<<<< HEAD
-      "componentPath": "/Users/messaydenbel/Documents/portfolio/src/pages/404.js",
-=======
       "componentPath": "/Users/mdenbel/Documents/portfolio/src/pages/404.js",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "38d568b2c2f4c47ee7387e82a4637cf3",
-=======
-        "contentDigest": "7f4d98932d49d84e7e760a5fd456a87c",
->>>>>>> 0fdacb25b540483df153bfdb2e4fcd492c24de5c
+        "contentDigest": "937e264f9fa02309bee86ca9bca25362",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
