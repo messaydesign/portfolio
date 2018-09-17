@@ -127,7 +127,7 @@
 @media only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2)
+  and (-webkit-min-device-pixel-ratio: 1)
   and (orientation: portrait) {
 
 
@@ -149,7 +149,7 @@
     .contactName {
         font-family:'Roboto';
         font-weight: 100;
-        width:300px;  
+        max-width: 275px;
         background:#FFF;
         
       }
@@ -157,11 +157,29 @@
         display:none;
     }
     .contact {
-        width:70%;
+        width: 100px;
         margin: 0 ;
-        display:grid;
-        display: grid;
-        grid-template-columns: repeat(1, 1fr);
     }
+.contactName {
+  font-family:'Roboto';
+  font-weight: 100; 
+  display:block; 
+  background:#FFF;
+}
+.contactName h1 {
+    color:black;
+    font-family: "marydale",sans-serif;
+    font-size:  32px;
+    font-weight: 800;
+}
 
-  }
+.contactName button {
+    width:100%;
+    margin-top: 16px;
+    background-color: #383838;
+    color: white;
+    font-size: 16px;
+    outline: none;
+    font-weight: 100;
+}
+}
