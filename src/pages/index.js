@@ -53,7 +53,7 @@ const IndexPage = () => (
           <h1> <div> <img src={require('../images/research.svg')} width="50" /> </div> Business research</h1>
           <p>
             Developing a deeper understanding of the business mission, its culture, and operations to get a
-          clear understanding of where the company is heading to and what type of product is aspired to
+          clear understanding of where the product is heading to and what type of product is aspired to
           build.
         </p>
         </div>
