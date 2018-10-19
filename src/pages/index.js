@@ -63,7 +63,7 @@ const IndexPage = () => (
           <h1> <div> <img src={require('../images/design.svg')} width="42" /> </div> Design Decision</h1>
           <p>
             For every design decision creating a quick sketch, flowcharts, prototypes and detailed documentation
-          will help to have a clear understanding throughout the team I am working with, this will
+          will help to have a clear understanding throughout the team This will
           clear the air between Product, Business and Engineering.
         </p>
         </div>

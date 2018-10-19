@@ -1,5 +1,5 @@
 var plugins = [{
-      plugin: require('/Users/mdenbel/Documents/portfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-101394601-1","head":false,"anonymize":true,"respectDNT":true,"exclude":["/preview/**","/do-not-track/me/too/"],"sampleRate":5,"siteSpeedSampleRate":10,"cookieDomain":"messay.design"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

@@ -5,24 +5,24 @@
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/mdenbel/Documents/portfolio/.cache/dev-404-page.js",
+      "component": "/Users/messaydenbel/Documents/GitHub/portfolio/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/mdenbel/Documents/portfolio/.cache/dev-404-page.js",
+      "componentPath": "/Users/messaydenbel/Documents/GitHub/portfolio/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c8db97d76a3ba2a21b377bfa074062dd",
+        "contentDigest": "370ce37b689afe848350969a44bd3f30",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -34,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -51,13 +51,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "941e1a5c436dd38c4ff750eb9108c182",
+        "contentDigest": "9a7327e25e6c2dd38020e410361493cc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -90,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "afc378b0b1d050513cd7073de0a34af0",
+        "contentDigest": "81208685343bce86c8666c90dc196018",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -109,7 +109,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -126,13 +126,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "27317c4df6c7c771a270a481d3403c7b",
+        "contentDigest": "390cf3fa759a9bec5308968ff265fe2c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -144,7 +144,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -161,13 +161,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "85de50149ad01e87999562700659ab36",
+        "contentDigest": "3ce6c0a72fd7459f7c9e088f25ea6b0d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -180,7 +180,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -197,13 +197,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ada09499afdeb593a5e726b86d5138e1",
+        "contentDigest": "c64e8e801ef057cbef9260aeb7daf90b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-google-analytics": {
-      "resolve": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby-plugin-google-analytics",
+      "resolve": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby-plugin-google-analytics",
       "id": "Plugin gatsby-plugin-google-analytics",
       "name": "gatsby-plugin-google-analytics",
       "version": "1.0.31",
@@ -228,7 +228,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby-plugin-google-analytics",
+      "pluginFilepath": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby-plugin-google-analytics",
       "packageJson": {
         "name": "gatsby-plugin-google-analytics",
         "description": "Gatsby plugin to add google analytics onto a site",
@@ -272,13 +272,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6b07bb9e34fedfee6a63d84946295916",
+        "contentDigest": "4af69acbe1f5e52eabcb0d3ef6ace158",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/mdenbel/Documents/portfolio",
+      "resolve": "/Users/messaydenbel/Documents/GitHub/portfolio",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "5c4065c9981176242d565d5004f2e32c",
@@ -288,7 +288,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/mdenbel/Documents/portfolio",
+      "pluginFilepath": "/Users/messaydenbel/Documents/GitHub/portfolio",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -333,19 +333,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6c8649238aa274f15cff9642cfb9de8e",
+        "contentDigest": "7aea4cddd843f197074cf23640ccf297",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "1.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/mdenbel/Documents/portfolio/src/pages",
+        "path": "/Users/messaydenbel/Documents/GitHub/portfolio/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -353,7 +353,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/mdenbel/Documents/portfolio/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/messaydenbel/Documents/GitHub/portfolio/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -415,7 +415,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4ffd42a5c22636a3d0c8f7fa0a74d09e",
+        "contentDigest": "1ca6aca8bbde068259bca463bf65ed27",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -432,12 +432,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-17T21:58:29.786Z",
+      "buildTime": "2018-10-19T02:20:37.483Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6bd950114105f3ce7614d2d333739afe",
+        "contentDigest": "6ba18bc9fe126a817f6275c6418f7fe4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -447,18 +447,18 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/mdenbel/Documents/portfolio/src/pages/404.js",
+      "component": "/Users/messaydenbel/Documents/GitHub/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/mdenbel/Documents/portfolio/src/pages/404.js",
+      "componentPath": "/Users/messaydenbel/Documents/GitHub/portfolio/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0d26024065b9b1ade6f9ce9d8269890d",
+        "contentDigest": "42d2a087e1e6cc222a5c7c8513ec9475",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -468,18 +468,18 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/mdenbel/Documents/portfolio/src/pages/index.js",
+      "component": "/Users/messaydenbel/Documents/GitHub/portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/mdenbel/Documents/portfolio/src/pages/index.js",
+      "componentPath": "/Users/messaydenbel/Documents/GitHub/portfolio/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3efd7cc6e7ae2bce1c8a5e19cacc2ef9",
+        "contentDigest": "46b9e66bb4dff6b6e2595caedd559656",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -489,18 +489,18 @@
       "jsonName": "page-2.json",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "/Users/mdenbel/Documents/portfolio/src/pages/page-2.js",
+      "component": "/Users/messaydenbel/Documents/GitHub/portfolio/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/mdenbel/Documents/portfolio/src/pages/page-2.js",
+      "componentPath": "/Users/messaydenbel/Documents/GitHub/portfolio/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d712feeb7fc81fc5854431599e7477b7",
+        "contentDigest": "6bf9092a43a553014a33dabbffb7bb54",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -510,18 +510,18 @@
       "jsonName": "success.json",
       "internalComponentName": "ComponentSuccess",
       "path": "/success/",
-      "component": "/Users/mdenbel/Documents/portfolio/src/pages/success.js",
+      "component": "/Users/messaydenbel/Documents/GitHub/portfolio/src/pages/success.js",
       "componentChunkName": "component---src-pages-success-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/mdenbel/Documents/portfolio/src/pages/success.js",
+      "componentPath": "/Users/messaydenbel/Documents/GitHub/portfolio/src/pages/success.js",
       "id": "SitePage /success/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a3de6e28708f754ef13596a273a4f16c",
+        "contentDigest": "afa150c86d8b24ce95d9b5fb346ef23d",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -531,18 +531,18 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/mdenbel/Documents/portfolio/src/pages/404.js",
+      "component": "/Users/messaydenbel/Documents/GitHub/portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/mdenbel/Documents/portfolio/src/pages/404.js",
+      "componentPath": "/Users/messaydenbel/Documents/GitHub/portfolio/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0ba8fefca1a197e3e007193133a82395",
+        "contentDigest": "dcfa562b45bd027d37b74fadf79b638d",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
