@@ -10,7 +10,7 @@ const IndexPage = () => (
         <div className="name"> <h1> <img src={require('../images/Logo.svg')} />  Messay F. Denbel</h1>
         </div>
         <div className="nameCont"><p> <strong>👋🏽 Hi,</strong> <br />I am a product designer focused on creating digital experiences who has a passion for motion,
-         visual design, human-centered design. I really enjoy digging into complex user experience problems with a deliberate curious mindset.
+         visual design and human-centered design. I really enjoy digging into complex user experience problems with a deliberate curious mindset.
          All of my work is based on applying the design process to a variety of problems.
     <div className="amharic"> <h4> መሣይ ፈለቀ ደንበል ::</h4></div>
         </p>
@@ -87,9 +87,9 @@ const IndexPage = () => (
         <div>
           <h1> Visual Design, Dashboards & User Experianece </h1>
           <p> I worked with numerous clients from all around the world
-      from early startups to well-established companies.<br />
-            I always seek new opportunities for cooperation on
-            projects around interesting dashboards, design system
+      from early startups to well-established companies.<br/><br/>
+            I always look for a cooperation on
+            projects around interesting dashboards and design systems.
     </p>
         </div>
 
